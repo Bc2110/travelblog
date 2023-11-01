@@ -1,0 +1,169 @@
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+    background: linear-gradient(to right, #6b8bbb, #b4c2ce 85%, #8fc6f0);
+    
+}
+ .navbar{
+    position: sticky;
+    top: 0;
+   
+ }
+footer {
+    background-color: rgb(243, 239, 238);
+}
+
+.overlay {
+    background: url(https://www.americanexpress.com/content/dam/amex/en-us/credit-cards/credit-intel/solo-travel-for-women.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 628px;
+}
+
+.overlay p {
+    text-align: center;
+    color: rgb(26, 8, 8);
+}
+
+.dest {
+    font-family: 'Just Me Again Down Here', cursive;
+}
+
+.pp {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_SefUZv-QwGWycqBX_miulBrjHIQQcepzkA&usqp=CAU);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.review {
+    background-color: black;
+}
+
+.pp h1:hover {
+    color: rgb(154, 156, 135);
+}
+
+.pp .btn {
+    position: absolute;
+    top: 1722px;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: #fdfdfd;
+    color: rgb(12, 12, 12);
+    font-size: 16px;
+    padding: 12px 24px;
+    border: none;
+    cursor: pointer;
+    border-radius: 45px;
+}
+
+.pp .b1 {
+    left: 36%;
+}
+
+.pp .b2 {
+    left: 50%;
+}
+
+.pp .btn:hover {
+    background-color: rgb(117, 115, 115);
+    color: bisque;
+}
+
+.pp p:hover {
+    background-color: rgb(117, 115, 115);
+    color: bisque;
+}
+
+.pp1 h1 {
+    color: aquamarine;
+}
+
+.pp1 h1:hover {
+    color: rgb(163, 9, 177);
+}
+
+.pp1 .btn {
+    position: absolute;
+    top: 3140px;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: #fdfdfd;
+    color: rgb(12, 12, 12);
+    font-size: 16px;
+    padding: 12px 24px;
+    border: none;
+    cursor: pointer;
+    border-radius: 45px;
+}
+
+.pp1 .b2 {
+    left: 50%;
+}
+
+.pp1 .btn:hover {
+    background-color: rgb(117, 115, 115);
+    color: bisque;
+}
+
+.pp1 p {
+    color: aliceblue;
+}
+
+.pp1 p:hover {
+    background-color: rgb(51, 2, 2);
+    color: bisque;
+}
+
+.cc img {
+    border-radius: 75%;
+    top: 1459px;
+    left: 69%;
+}
+
+.pic{
+    background: url(https://img.freepik.com/free-vector/white-background-with-hexagonal-line-pattern-design_1017-28442.jpg);
+    background-size: cover;
+    background-repeat: no-repeat; 
+}
+.pic h4 {
+    text-align: center;
+    font-size: x-large;
+    margin: 10px;
+    color: rgb(31, 53, 46);
+}
+
+.pic p {
+    text-align: justify;
+    margin: 30px;
+}
+.cv {
+background-color: rgb(78, 43, 110);
+padding: 10px;
+color: azure;
+text-decoration: none;
+border-radius: 10px;
+margin-left: 50px;
+
+}
+.subscribe{
+background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSnAkFtfMibe_aOYzp7t6b1M7EAK_OMhpDkg&usqp=CAU);
+text-align: center;
+background-size: cover;
+    background-repeat: no-repeat; 
+}
+.subscribe input{
+border-radius: 27%;
+border: none;
+width: 30%;
+}
+.subscribe button{
+border-radius: 23%;
+}
+.subscribe button:hover{
+background-color: yellow;
+}
